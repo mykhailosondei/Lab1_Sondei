@@ -1,0 +1,15 @@
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/bin/Debug/net7.0/Lab1_Sondei
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/bin/Debug/net7.0/Lab1_Sondei.deps.json
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/bin/Debug/net7.0/Lab1_Sondei.runtimeconfig.json
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/bin/Debug/net7.0/Lab1_Sondei.dll
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/bin/Debug/net7.0/Lab1_Sondei.pdb
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/Lab1_Sondei.csproj.AssemblyReference.cache
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/Lab1_Sondei.GeneratedMSBuildEditorConfig.editorconfig
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/Lab1_Sondei.AssemblyInfoInputs.cache
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/Lab1_Sondei.AssemblyInfo.cs
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/Lab1_Sondei.csproj.CoreCompileInputs.cache
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/Lab1_Sondei.dll
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/refint/Lab1_Sondei.dll
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/Lab1_Sondei.pdb
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/Lab1_Sondei.genruntimeconfig.cache
+/home/mykhailo/RiderProjects/Lab1_Sondei/Lab1_Sondei/obj/Debug/net7.0/ref/Lab1_Sondei.dll
